@@ -4,7 +4,6 @@
 #
 %define		pdir	Net
 %define		pnam	LibIDN
-%include	/usr/lib/rpm/macros.perl
 Summary:	This module provides Perl bindings for GNU Libidn
 Summary(pl.UTF-8):	Wiązania Libidn dla Perla	
 Name:		perl-Net-LibIDN

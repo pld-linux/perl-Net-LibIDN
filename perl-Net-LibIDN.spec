@@ -8,7 +8,7 @@ Summary:	This module provides Perl bindings for GNU Libidn
 Summary(pl.UTF-8):	Wiązania Libidn dla Perla	
 Name:		perl-Net-LibIDN
 Version:	0.12
-Release:	10
+Release:	11
 License:	GPL
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Net/%{pdir}-%{pnam}-%{version}.tar.gz
